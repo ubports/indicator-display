@@ -14,7 +14,7 @@ set(SERVICE_LIB ${PACKAGE})
 set(SERVICE_EXEC "${PACKAGE}-service")
 
 option(enable_tests "Build the package's automatic tests." ON)
-option(enable_coverage "Generate code coverage reports." ON)
+option(enable_coverage "Generate code coverage reports." OFF)
 
 ##
 ##  GNU standard paths
