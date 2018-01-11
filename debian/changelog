@@ -1,3 +1,9 @@
+indicator-display (0.2+ubports1) UNRELEASED; urgency=medium
+
+  * Update Jenkinsfile
+
+ -- Dan Chapman <dan@ubports.com>  Thu, 11 Jan 2018 11:03:30 +0000
+
 indicator-display (0.2+ubports) vivid; urgency=medium
 
   * Imported to UBports
